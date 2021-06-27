@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body,html{
+    height:100%;
+    width:100%;
+    background-color: black;
+    color:#4CAF50;
+}
+header{
+    padding:16px;
+    background-color: #4CAF50;
+    text-align: center;
+    color:white;
+}
+.article{
+    padding:16px;
+    text-align: center;
+    background-color:black;
+    color:#4CAF50;
+}
